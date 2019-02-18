@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>每日充实</title>
+  
+  <subtitle>物尽其用，人尽其能</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://mkh.dailyenrich.com/"/>
+  <updated>2019-02-18T12:16:23.291Z</updated>
+  <id>http://mkh.dailyenrich.com/</id>
+  
+  <author>
+    <name>舍得</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2019年02月每日总结</title>
+    <link href="http://mkh.dailyenrich.com/2019/02/13/2019%E5%B9%B402%E6%9C%88%E6%AF%8F%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>http://mkh.dailyenrich.com/2019/02/13/2019年02月每日总结/</id>
+    <published>2019-02-13T21:49:34.000Z</published>
+    <updated>2019-02-18T12:16:23.291Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon Feb 18 2019 12:16:58 GMT+0000 (Coordinated Universal Time) --&gt;&lt;h2 id=&quot;2019-02-13-生日&quot;&gt;&lt;a href=&quot;#2019-02-13-生日&quot; class=&quot;hea
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="http://mkh.dailyenrich.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="时间" scheme="http://mkh.dailyenrich.com/tags/%E6%97%B6%E9%97%B4/"/>
+    
+      <category term="生活" scheme="http://mkh.dailyenrich.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="总结" scheme="http://mkh.dailyenrich.com/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019年尝鲜100件新鲜事</title>
+    <link href="http://mkh.dailyenrich.com/2019/02/13/2019%E5%B9%B4%E5%B0%9D%E9%B2%9C100%E4%BB%B6%E6%96%B0%E9%B2%9C%E4%BA%8B/"/>
+    <id>http://mkh.dailyenrich.com/2019/02/13/2019年尝鲜100件新鲜事/</id>
+    <published>2019-02-13T19:22:58.000Z</published>
+    <updated>2019-02-18T12:16:23.291Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon Feb 18 2019 12:16:58 GMT+0000 (Coordinated Universal Time) --&gt;&lt;h1 id=&quot;2019年100件尝鲜清单&quot;&gt;&lt;a href=&quot;#2019年100件尝鲜清单&quot; class=&quot;hea
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019年计划</title>
+    <link href="http://mkh.dailyenrich.com/2019/02/13/2019%E5%B9%B4%E8%AE%A1%E5%88%92/"/>
+    <id>http://mkh.dailyenrich.com/2019/02/13/2019年计划/</id>
+    <published>2019-02-13T10:16:52.000Z</published>
+    <updated>2019-02-18T12:16:23.291Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon Feb 18 2019 12:16:58 GMT+0000 (Coordinated Universal Time) --&gt;&lt;h2 id=&quot;2019开年寄语&quot;&gt;&lt;a href=&quot;#2019开年寄语&quot; class=&quot;headerlink&quot; t
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="http://mkh.dailyenrich.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="目标" scheme="http://mkh.dailyenrich.com/tags/%E7%9B%AE%E6%A0%87/"/>
+    
+      <category term="时间" scheme="http://mkh.dailyenrich.com/tags/%E6%97%B6%E9%97%B4/"/>
+    
+      <category term="生活" scheme="http://mkh.dailyenrich.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
